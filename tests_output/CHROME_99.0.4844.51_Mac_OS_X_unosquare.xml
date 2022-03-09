@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="unosquare"
+    errors="1" failures="0" hostname="" id="" package="unosquare" skipped="0"
+    tests="1" time="63.65" timestamp="">
+  
+    <testcase name="Demo test unosquare" classname="unosquare" time="63.65" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <error message="Error while running .url(): Error ECONNRESET: socket hang up" type="error"><![CDATA[
+    Error: Error while running .url(): Error ECONNRESET: socket hang up
+    at /Users/l.fernandoanda/Desktop/API_Testing&amp;API_Automation/SESSIONS/Unosquare/node_modules/nightwatch/lib/api/_loaders/command.js:178:29
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    ]]></error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+        ReferenceError: waitForElementVisible is not defined
+       at Object.1st Exercise (/Users/l.fernandoanda/Desktop/API_Testing&amp;API_Automation/SESSIONS/Unosquare/tests/1st_ex.js:10:7)
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)
+  Error: Error while running .url(): Error ECONNRESET: socket hang up
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)
+  Error: Error while running .url(): Error ECONNRESET: socket hang up
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
