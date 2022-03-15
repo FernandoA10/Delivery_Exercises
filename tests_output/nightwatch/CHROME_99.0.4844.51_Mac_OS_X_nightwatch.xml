@@ -3,11 +3,19 @@
             failures="0"
             tests="1">
 
-  <testsuite name="Nightwatch.nightwatch"
-    errors="0" failures="0" hostname="" id="" package="Nightwatch" skipped="0"
-    tests="1" time="29.46" timestamp="">
+  <testsuite name="nightwatch.nightwatch"
+    errors="0" failures="0" hostname="" id="" package="nightwatch" skipped="0"
+    tests="1" time="23.69" timestamp="">
   
-    <testcase name="test pages" classname="Nightwatch.nightwatch" time="29.46" assertions="4">
+    <testcase name="test pages" classname="nightwatch.nightwatch" time="23.69" assertions="8">
+
+    
+
+    
+
+    
+
+    
 
     
 
